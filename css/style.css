@@ -18,7 +18,7 @@
 }
 
 .banner-image {
-  background-image: url("/home/anne/Documents/CV BOOSTRAP/img/thomas-evraert-hbbmL757V2Q-unsplash.jpg");
+  background-image: url('../img/banner-img.jpg');
   background-size: cover;
 }
 
@@ -399,7 +399,6 @@ animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
   height: 100%;
   object-fit: cover;
 }
- 
 
 /* Contact Section */
 
